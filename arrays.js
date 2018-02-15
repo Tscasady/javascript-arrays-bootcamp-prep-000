@@ -1,5 +1,5 @@
-function addElementToBeginningOfArray(array,b){
-  var newA = a.unshift(b)
+function addElementToBeginningOfArray(array,element){
+  var newArray = array.unshift(element)
   return newA
 }
 
